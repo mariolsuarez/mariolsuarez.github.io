@@ -133,8 +133,8 @@ textarea {
 }
 
 #masthead_landing {
-  height: 367px;
-  background-image: url("../img/gameBackground.jpg");
+  height: 300px;
+  background-image: url("https://web.njit.edu/~ms627/personalsite/img/network_background.jpg");
   background-size: cover;
   background-position: center;
   margin-top: 45px;
