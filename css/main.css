@@ -142,7 +142,7 @@ textarea {
   clear: both;
 }
 #hero_div {
-  background: rgba(0, 0, 0, 0.6);
+  background: rgba(0, 0, 0, 0);
   color: #000000;
   height: 50%;
   width: 100%;
