@@ -350,3 +350,9 @@ textarea {
 	padding-left: 150px !important;
 	line-height: 40px !important;
 }
+.container {
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
