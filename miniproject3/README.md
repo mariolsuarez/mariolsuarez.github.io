@@ -1,2 +1,2 @@
-##Mini-Project III
-###by: Mario Suarez
+## Mini-Project III
+### by: Mario Suarez
